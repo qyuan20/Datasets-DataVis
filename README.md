@@ -1,2 +1,2 @@
 # Datasets-for-Class
-Datasets
+Contains the datasets used in class. 
